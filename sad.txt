@@ -1,4 +1,8 @@
 canvi branca
 adssa
+<<<<<<< HEAD
 buenas a todos desde la original
 canvis
+=======
+solventandobugs desde reloaded
+>>>>>>> origin/mv1.0
